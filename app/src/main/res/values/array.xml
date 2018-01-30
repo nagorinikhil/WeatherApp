@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listArray">
+        <item>Celcius</item>
+        <item>Farhenheit</item>\
+    </string-array>
+
+    <string-array name="listValues">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+</resources>
